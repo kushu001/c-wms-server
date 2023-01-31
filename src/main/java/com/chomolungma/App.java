@@ -1,4 +1,4 @@
-package org.chomolungma;
+package com.chomolungma;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
