@@ -12,7 +12,7 @@
 .sts4-cache
 
 ### IntelliJ IDEA ###
-../../cdp/.idea
+.idea
 *.iws
 *.iml
 *.ipr
