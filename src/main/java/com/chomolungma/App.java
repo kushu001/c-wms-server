@@ -4,13 +4,12 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
-
 /**
  * @author kushu001
  * @date 2022-01-30
  */
 @SpringBootApplication
-@ComponentScan(basePackages = {"com.chomolungma"})
+@ComponentScan(basePackages = {"com.chomolungma.auth"})
 @MapperScan("com.chomolungma.**.mapper")
 public class App 
 {
